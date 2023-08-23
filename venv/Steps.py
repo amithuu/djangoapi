@@ -60,7 +60,7 @@
 # Create a new Project called as app in django 
     '[python3 manage.py createproject project-name]'
 
-# Note: once u create an app or install an app [we need to add apps in settings]
+# Note: once u create an app [we need to add apps in settings]
     '[buildapi]'
 
 # as we have added our project, now we need our file in web, so we need add the route of the file in ["urls.py"]
